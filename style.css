@@ -458,7 +458,15 @@ textarea::placeholder {
         padding: 25px 15px 0px 15px;
     }
 
-    
+    .search input[type=text]{
+        width:200px;
+        text-align: center;
+    }
+
+    .header_nav_search{
+        justify-content:center;
+        
+    }
     
 }
 
